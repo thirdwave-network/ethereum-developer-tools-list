@@ -1,5 +1,6 @@
 
 # Ethereum Developer Tools List
+https://www.4byte.directory/
 A guide to available tools, components, patterns, and platforms for developing applications on Ethereum.
 
 Creation of this list was spurred by product managers at ConsenSys who saw a need for better sharing of tools, development patterns, and components amongst both new and experienced blockchain developers.
