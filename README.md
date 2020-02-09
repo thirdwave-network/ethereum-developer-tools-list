@@ -2,6 +2,8 @@ https://my.truffleteams.com/#/
 
 https://www.pooltogether.com/audits
 
+https://sites.google.com/trufflesuite.com/truffle-u-almond-cluster/content-archive
+
 # Ethereum Developer Tools List
 https://www.4byte.directory/
 A guide to available tools, components, patterns, and platforms for developing applications on Ethereum.
