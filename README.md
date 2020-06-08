@@ -1,3 +1,5 @@
+https://github.com/ConsenSys/vscode-solidity-auditor
+
 https://my.truffleteams.com/#/
 
 https://www.pooltogether.com/audits
